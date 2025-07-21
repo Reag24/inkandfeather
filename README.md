@@ -1,2 +1,0 @@
-# inkandfeather
-Handwriting recognition app
